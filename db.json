@@ -1,0 +1,117 @@
+{
+ "projects": [
+  {
+   "name": "Fesapce",
+   "description": {
+    "main": "A futuristic space exploration game built with Unity.",
+    "more": "The game features stunning graphics and immersive gameplay that puts the player in the role of a space explorer on a mission to discover new planets and uncover the mysteries of the universe."
+   }
+  },
+  {
+   "name": "Project 2",
+   "description": {
+    "main": "An educational platform for children built with React and Firebase.",
+    "more": "This project focuses on making learning fun and interactive for kids. With gamification elements, children can engage with educational content in a way that's enjoyable and keeps them motivated to learn more."
+   }
+  },
+  {
+   "name": "Project 3",
+   "description": {
+    "main": "A mobile app for tracking personal fitness goals built with React Native.",
+    "more": "This project is designed to help users achieve their fitness goals by providing personalized workout plans and tracking their progress over time. With an intuitive interface and a focus on user experience, this app is perfect for anyone looking to stay healthy and fit."
+   }
+  },
+  {
+   "name": "Project 4",
+   "description": {
+    "main": "A social media platform for artists built with Ruby on Rails.",
+    "more": "This project provides a space for artists to showcase their work, connect with other artists, and share their creative process. With features like portfolios, community forums, and user-generated content, this platform is perfect for artists looking to grow their online presence."
+   }
+  },
+  {
+   "name": "Project 5",
+   "description": {
+    "main": "An online marketplace for handmade goods built with React and GraphQL.",
+    "more": "This project allows users to browse and purchase handmade products from a diverse community of artists and makers. With a focus on simplicity and user experience, the marketplace provides a seamless shopping experience for anyone looking for unique, one-of-a-kind items."
+   }
+  },
+  {
+   "name": "Project 6",
+   "description": {
+    "main": "A website for a local restaurant built with HTML, CSS, and JavaScript.",
+    "more": "This project is designed to help the restaurant showcase its menu, specials, and events. With an attractive and user-friendly design, the website is perfect for anyone looking to find information about the restaurant and make a reservation."
+   }
+  },
+  {
+   "name": "Project 7",
+   "description": {
+    "main": "A weather app built with Vue.js and OpenWeatherMap API.",
+    "more": "This project provides accurate and up-to-date weather information for cities around the world. With a simple and clean design, the app makes it easy to check the weather anytime, anywhere."
+   }
+  },
+  {
+   "name": "Project 8",
+   "description": {
+    "main": "A chat app for remote teams built with Node.js and WebSockets.",
+    "more": "This project provides a secure and reliable communication platform for remote teams. With features like real-time messaging, file sharing, and video calling, the app is perfect for keeping remote teams connected and productive."
+   }
+  },
+  {
+   "name": "Project 9",
+   "description": {
+    "main": "An e-commerce website for a local boutique built with WooCommerce and WordPress.",
+    "more": "This project provides an online shopping platform for a local boutique that specializes in unique and stylish clothing and accessories. With a sleek and modern design, the website makes it easy for customers to browse and purchase items from the boutique's collection."
+   }
+  },
+  {
+   "name": "Project 10",
+   "description": {
+    "main": "A budgeting app for personal finances built with React and Firebase.",
+    "more": "This project helps users keep track of their expenses and manage their personal finances. With features like budget tracking, bill reminders, and transaction history, the app is perfect for anyone looking to get a better handle on their money."
+   }
+  }
+ ],
+ "tabs": [
+  {
+    "company": "Plab",
+    "company_logo": "https://www.plab.com/wp-content/themes/plab/dist/img/logo.png",
+    "company_description": "Plab is a global technology company that specializes in creating innovative solutions for a variety of industries."
+    },
+    {
+    "company": "Cloud9",
+    "company_logo": "https://www.cloud9.com/images/logo-desktop.svg",
+    "company_description": "Cloud9 is a leading provider of cloud-based solutions for businesses of all sizes."
+    },
+    {
+    "company": "NeuralMind",
+    "company_logo": "https://neuralmind.ai/wp-content/themes/neuralmind/dist/images/logo.svg",
+    "company_description":
+  "NeuralMind is a cutting-edge AI technology company that specializes in developing innovative solutions for a range of industries."
+},
+{
+"company": "CloudMind",
+"company_logo": "https://www.cloudmind.com/wp-content/uploads/2020/03/CloudMind_Logo_RGB.svg",
+"company_description": "CloudMind is a leading provider of cloud-based solutions for businesses of all sizes."
+},
+{
+"company": "DataHive",
+"company_logo": "https://www.datahive.io/wp-content/uploads/2021/10/datahive_logo.svg",
+"company_description": "DataHive is a data analytics company that helps businesses make data-driven decisions."
+},
+{
+"company": "SecureTech",
+"company_logo": "https://securetech.com/wp-content/uploads/2022/01/SecureTech-Logo.svg",
+"company_description": "SecureTech is a cybersecurity company that offers a range of security solutions for businesses of all sizes."
+},
+{
+"company": "CloudCom",
+"company_logo": "https://cloudcom.com/wp-content/uploads/2021/09/CloudCom-Logo.svg",
+"company_description": "CloudCom is a cloud computing company that provides scalable and reliable cloud solutions for businesses."
+},
+{
+"company": "CodeLab",
+"company_logo": "https://codelab.com/wp-content/uploads/2022/06/CodeLab-Logo.svg",
+"company_description": "CodeLab is a software development company that creates custom software solutions for businesses of all sizes."
+}
+ ]
+}

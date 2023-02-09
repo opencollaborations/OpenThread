@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* https://coolors.co/p/QaWFRE1isBPDwEdFFnLZ */
+/* --cultured: #f8f9faff;
+--cultured-2: #e9ecefff;
+--gainsboro: #dee2e6ff;
+--light-gray: #ced4daff;
+--cadet-blue-crayola: #adb5bdff;
+--sonic-silver: #6c757dff;
+--davys-grey: #495057ff;
+--onyx: #343a40ff;
+--eerie-black: #212529ff; */
+@font-face {
+ font-family: 'Roboto';
+ src: url('./asserts/Roboto/Roboto-Thin.ttf') format('truetype');
+ font-weight: 100;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Light.ttf') format('truetype');
+ font-weight: 200 ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Regular.ttf') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Medium.ttf') format('truetype');
+ font-weight: 500;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Bold.ttf') format('truetype');
+ font-weight: 700;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Black.ttf') format('truetype');
+ font-weight: 900;
+ font-style: normal;
+}
+/* @font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-ThinItalic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-LightItalic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-Italic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-MediumItalic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-BoldItalic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'Roboto';
+ src: url('asserts/Roboto/Roboto-BlackItalic.ttf') format('truetype');
+ font-weight: ;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'itim';
+ src: url('asserts/itim/Itim-Regular.ttf') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+} */
+
+body {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 400;
+}
+* {
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
