@@ -1,0 +1,39 @@
+
+hi give me text that waswritten by a poety about the planet on the folliing format 
+{
+    name:'',
+    date:'',
+    poem:'',
+      
+}
+
+hi give a 20 list of folower json that the folloing format using real time values and names with just a 20 word catchphase
+{
+    name:'',
+    catchphase:''
+      
+}
+
+give me a valid dataurl for a image that says the phase "no image" with th etext being white and the background being blue // it failed
+
+
+hi give a 20 list of colab name where colab are just like facebook group but only for witters so use only writer intuitive name only json that the folloing format using real time values and names with just a 20 word catchphase
+{
+    name:''
+    catchphase:''
+    date:''
+    poems:[Number]// just an array of number id from 0 to 20 of lenght 10
+    memebers:[Number]// just an array of number id from 0 to 20 of lenght 10
+}
+
+replace the following felid with it repective 
+name - pen_name
+[delete] username
+cover_photo - cover_qoute(pls this should be a valid qoute by someone knowlgede)
+bio - catchphase(use any catchphase from above)
+website - social_handle(an object with the person's socialhandles)
+work - Master_pices(make the array but kindly replace the object with just random id from 0-20)
+education(the degree should be writing related or poetry related)
+[delete] relationship_status
+
+limit collab members

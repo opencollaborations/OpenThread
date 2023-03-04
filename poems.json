@@ -1,0 +1,408 @@
+{
+ "treads": [
+  {
+
+   "name": "Mercury",
+   "date": "August 3, 2004",
+   "poem": "Mercury, messenger of the gods,\nSo close yet so far away,\nYour surface scorched by the sun's hot rods,\nYour beauty still on display.\nOh Mercury, so tiny and bright,\nMay we one day visit your sight.",
+   "applauds": 0,
+   "treads": 0,
+   "echos": 0,
+   "author": "Lila Kim"
+  },
+  {
+   "name": "Venus",
+   "date": "December 17, 1970",
+   "poem": "Venus, goddess of love and beauty,\nYour bright and shining light,\nI gaze up at you with duty,\nA marvel of the night.\nOh Venus, so close yet so far,\nMay we someday learn what you are.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Isabella Price"
+  },
+  {
+   "name": "Mars",
+   "date": "November 14, 2012",
+   "poem": "Mars, the red planet in the sky,\nYour dusty surface and canyons deep,\nA mystery to the human eye,\nYour secrets we're yet to keep.\nOh Mars, so close and yet so far,\nMay we one day traverse your scar.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Ethan Wood"
+  },
+  {
+   "name": "Jupiter",
+   "date": "June 7, 1995",
+   "poem": "Jupiter, king of the planets so grand,\nYour massive size and swirling bands,\nYour moons and rings, a sight so rare,\nA wonder of the solar flare.\nOh Jupiter, so vast and bright,\nMay we one day behold your might.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Leah Foster"
+  },
+  {
+   "name": "Saturn",
+   "date": "October 25, 2007",
+   "poem": "Saturn, the jewel of the night,\nYour rings of ice and dust so bright,\nYour giant size and golden hue,\nA beauty to behold for a few.\nOh Saturn, so far yet so near,\nMay we one day come and peer.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Gabriel Lee"
+  },
+  {
+   "name": "Uranus",
+   "date": "September 19, 1986",
+   "poem": "Uranus, the seventh planet in the row,\nYour tilted axis and icy glow,\nYour magnetic fields and icy rings,\nA sight so rare, a cosmic fling.\nOh Uranus, so cold and so blue,\nMay we one day visit you.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Emily Thompson"
+  },
+  {
+   "name": "Neptune",
+   "date": "July 11, 2011",
+   "poem": "Neptune, the blue giant in the dark,\nYour frigid winds and methane mark,\nYour great dark spot and icy shell,\nA world so distant, yet still so well.\nOh Neptune, so far and so cold,\nMay we one day be so bold.",
+   "applauds": 0,
+   "treads": 0,
+   "echos": 0,
+   "author": "Michael Chen"
+  },
+  {
+   "name": "Pluto",
+   "date": "February 18, 1930",
+   "poem": "Pluto, the dwarf planet in the sky,\nYour icy surface and frozen sigh,\nYour heart so bright, a mystery to tell,\nA world so small, yet so well.\nOh Pluto, so far and so small,\nMay",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Olivia Davis"
+  },
+
+  {
+   "name": "Makemake",
+   "date": "March 31, 2005",
+   "poem": "Makemake, the distant dwarf in space,\nYour reddish hue and icy face,\nYour far-off orbit and distant sight,\nA world so small, yet still so bright.\nOh Makemake, so far and so cold,\nMay we one day your secrets hold.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "David Kim"
+  },
+  {
+   "name": "Haumea",
+   "date": "September 17, 2008",
+   "poem": "Haumea, the dwarf planet so bright,\nYour elongated shape and icy light,\nYour far-off orbit and distant glow,\nA world so small, yet so much to know.\nOh Haumea, so unique and so rare,\nMay we one day your beauty share.",
+   "applauds": 0,
+   "treads": 0,
+   "echo": 0,
+   "author": "Sophia Lee"
+  },{
+    "name": "Mercury",
+    "date": "August 3, 2004",
+    "poem": "Mercury, messenger of the gods,\nSo close yet so far away,\nYour surface scorched by the sun's hot rods,\nYour beauty still on display.\nOh Mercury, so tiny and bright,\nMay we one day visit your sight.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Lila Kim"
+   },
+   {
+    "name": "Venus",
+    "date": "December 17, 1970",
+    "poem": "Venus, goddess of love and beauty,\nYour bright and shining light,\nI gaze up at you with duty,\nA marvel of the night.\nOh Venus, so close yet so far,\nMay we someday learn what you are.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Isabella Price"
+   },
+   {
+    "name": "Mars",
+    "date": "November 14, 2012",
+    "poem": "Mars, the red planet in the sky,\nYour dusty surface and canyons deep,\nA mystery to the human eye,\nYour secrets we're yet to keep.\nOh Mars, so close and yet so far,\nMay we one day traverse your scar.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Ethan Wood"
+   },
+   {
+    "name": "Jupiter",
+    "date": "June 7, 1995",
+    "poem": "Jupiter, king of the planets so grand,\nYour massive size and swirling bands,\nYour moons and rings, a sight so rare,\nA wonder of the solar flare.\nOh Jupiter, so vast and bright,\nMay we one day behold your might.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Leah Foster"
+   },
+   {
+    "name": "Saturn",
+    "date": "October 25, 2007",
+    "poem": "Saturn, the jewel of the night,\nYour rings of ice and dust so bright,\nYour giant size and golden hue,\nA beauty to behold for a few.\nOh Saturn, so far yet so near,\nMay we one day come and peer.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Gabriel Lee"
+   },
+   {
+    "name": "Uranus",
+    "date": "September 19, 1986",
+    "poem": "Uranus, the seventh planet in the row,\nYour tilted axis and icy glow,\nYour magnetic fields and icy rings,\nA sight so rare, a cosmic fling.\nOh Uranus, so cold and so blue,\nMay we one day visit you.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Emily Thompson"
+   },
+   {
+    "name": "Neptune",
+    "date": "July 11, 2011",
+    "poem": "Neptune, the blue giant in the dark,\nYour frigid winds and methane mark,\nYour great dark spot and icy shell,\nA world so distant, yet still so well.\nOh Neptune, so far and so cold,\nMay we one day be so bold.",
+    "applauds": 0,
+    "treads": 0,
+    "echos": 0,
+    "author": "Michael Chen"
+   },
+   {
+    "name": "Pluto",
+    "date": "February 18, 1930",
+    "poem": "Pluto, the dwarf planet in the sky,\nYour icy surface and frozen sigh,\nYour heart so bright, a mystery to tell,\nA world so small, yet so well.\nOh Pluto, so far and so small,\nMay",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Olivia Davis"
+   },
+ 
+   {
+    "name": "Makemake",
+    "date": "March 31, 2005",
+    "poem": "Makemake, the distant dwarf in space,\nYour reddish hue and icy face,\nYour far-off orbit and distant sight,\nA world so small, yet still so bright.\nOh Makemake, so far and so cold,\nMay we one day your secrets hold.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "David Kim"
+   },
+   {
+    "name": "Haumea",
+    "date": "September 17, 2008",
+    "poem": "Haumea, the dwarf planet so bright,\nYour elongated shape and icy light,\nYour far-off orbit and distant glow,\nA world so small, yet so much to know.\nOh Haumea, so unique and so rare,\nMay we one day your beauty share.",
+    "applauds": 0,
+    "treads": 0,
+    "echo": 0,
+    "author": "Sophia Lee"
+   }
+ ],
+ "friends": [
+  {
+   "name": "Avery Johnson",
+   "catchphrase": "Hustle and heart will set you apart."
+  },
+  {
+   "name": "Ethan Davis",
+   "catchphrase": "Life is too short to wait for tomorrow."
+  },
+  {
+   "name": "Emma Hernandez",
+   "catchphrase": "Follow your dreams and never give up on what you love."
+  },
+  {
+   "name": "William Anderson",
+   "catchphrase": "Believe you can and you're halfway there."
+  },
+  {
+   "name": "Sophia Thompson",
+   "catchphrase": "Life is a journey, enjoy the ride."
+  },
+  {
+   "name": "Noah Garcia",
+   "catchphrase": "Life is too short to not live it to the fullest."
+  },
+  {
+   "name": "Isabella Brown",
+   "catchphrase": "Dream big, work hard, stay focused."
+  },
+  {
+   "name": "Mia Wilson",
+   "catchphrase": "Be the change you wish to see in the world."
+  },
+  {
+   "name": "Lucas Rodriguez",
+   "catchphrase": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+   "name": "Olivia Smith",
+   "catchphrase": "Life is an adventure, enjoy the journey."
+  },
+  {
+   "name": "Benjamin Taylor",
+   "catchphrase": "Success is not final, failure is not fatal: it's the courage to continue that counts."
+  },
+  {
+   "name": "Charlotte Jones",
+   "catchphrase": "Find what you love and let it kill you."
+  },
+  {
+   "name": "James Lee",
+   "catchphrase": "Chase your dreams and make them a reality."
+  },
+  {
+   "name": "Amelia Davis",
+   "catchphrase": "Live for today, hope for tomorrow."
+  },
+  {
+   "name": "Alexander Wilson",
+   "catchphrase": "Success is the sum of small efforts repeated day in and day out."
+  },
+  {
+   "name": "Abigail Anderson",
+   "catchphrase": "Believe in yourself, and all that you are. Know that there is something inside you that is greater than any obstacle."
+  },
+  {
+   "name": "Michael Martinez",
+   "catchphrase": "Happiness is not something ready made. It comes from your own actions."
+  },
+  {
+   "name": "Emily Hernandez",
+   "catchphrase": "Make every day count and live life to the fullest."
+  },
+  {
+   "name": "Daniel Johnson",
+   "catchphrase": "The best way to predict your future is to create it."
+  },
+  {
+   "name": "Ava Thompson",
+   "catchphrase": "Life is a precious gift, make every moment count."
+  }
+ ],
+ "collabs": [
+  {
+   "name": "Inkwell Society",
+   "catchphrase": "Unleash your creativity!",
+   "date": "2022-02-25",
+   "poems": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19],
+   "members": [2, 5, 6, 8, 11, 12, 13, 14, 17, 20]
+  },
+  {
+   "name": "Wordcraft Collective",
+   "catchphrase": "Crafting words into art",
+   "date": "2022-02-24",
+   "poems": [0, 1, 4, 7, 10, 11, 13, 16, 18, 19],
+   "members": [1, 2, 4, 7, 9, 11, 13, 16, 18, 19]
+  },
+  {
+   "name": "Quill & Scroll Society",
+   "catchphrase": "Where writing comes alive",
+   "date": "2022-02-23",
+   "poems": [0, 2, 5, 8, 11, 12, 14, 16, 18, 19],
+   "members": [0, 1, 3, 5, 7, 9, 11, 13, 15, 17]
+  },
+  {
+   "name": "The Scribblers Club",
+   "catchphrase": "Write your way to the top",
+   "date": "2022-02-22",
+   "poems": [1, 3, 6, 9, 11, 13, 16, 18, 19, 20],
+   "members": [0, 1, 2, 4, 6, 8, 10, 12, 14, 16]
+  },
+  {
+   "name": "Pen & Paper Posse",
+   "catchphrase": "Writing in its purest form",
+   "date": "2022-02-21",
+   "poems": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18],
+   "members": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
+  },
+  {
+   "name": "The Literary Guild",
+   "catchphrase": "For the love of literature",
+   "date": "2022-02-20",
+   "poems": [1, 4, 7, 10, 13, 16, 19, 20],
+   "members": [2, 5, 8, 11, 14, 17, 20]
+  },
+  {
+   "name": "The Poet's Corner",
+   "catchphrase": "Where the pen is mightier",
+   "date": "2022-02-19",
+   "poems": [0, 3, 6, 9, 12, 15, 18],
+   "members": [0, 3, 6, 9, 12, 15, 18]
+  },
+  {
+   "name": "The Writer's Den",
+   "catchphrase": "Unleash your creativity with fellow writers!",
+   "date": "2022-03-01",
+   "poems": [1, 3, 5, 6, 7, 9, 12, 15, 18, 19],
+   "members": [2, 4, 6, 8, 11, 13, 16, 18, 19, 20]
+  },
+  {
+   "name": "Inkwell Society",
+   "catchphrase": "Join the inkwell, where the written word flows!",
+   "date": "2022-02-25",
+   "poems": [0, 2, 4, 5, 7, 8, 10, 14, 16, 18],
+   "members": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
+  },
+  {
+   "name": "The Quill Club",
+   "catchphrase": "Where pen meets paper, and ink flows free!",
+   "date": "2022-02-28",
+   "poems": [2, 4, 6, 8, 10, 12, 14, 16, 18, 20],
+   "members": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+  },
+  {
+   "name": "The Poet's Corner",
+   "catchphrase": "Come share your poetry and find your voice!",
+   "date": "2022-03-02",
+   "poems": [0, 1, 3, 5, 7, 9, 11, 13, 15, 17],
+   "members": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
+  },
+  {
+   "name": "The Writing Room",
+   "catchphrase": "A place for writers to gather, create, and share!",
+   "date": "2022-03-03",
+   "poems": [1, 2, 4, 7, 10, 13, 16, 18, 19, 20],
+   "members": [0, 3, 6, 9, 12, 15, 18, 19, 20]
+  }
+ ],
+ "profile": [
+  {
+   "pen_name": "John Smith",
+   "cover_quote": "All that we are is the result of what we have thought.",
+   "catchphrase": "Let your words flow like a river and your mind be a fertile ground for inspiration.",
+   "social_handles": {
+    "twitter": "@johnsmith",
+    "instagram": "@johnsmith",
+    "facebook": "@johnsmith"
+   },
+   "masterpieces": [1, 3, 5, 7, 8, 12, 15, 16, 17],
+   "education": "Master of Fine Arts in Creative Writing",
+   "treads": [0, 1, 2, 4, 6, 9, 10, 11, 13, 14]
+  },
+  {
+   "pen_name": "Mary Johnson",
+   "cover_quote": "The only way to do great work is to love what you do.",
+   "catchphrase": "Let the beauty of the written word ignite your passion.",
+   "social_handles": {
+    "twitter": "@maryjohnson",
+    "instagram": "@maryjohnson",
+    "facebook": "@maryjohnson"
+   },
+   "masterpieces": [0, 2, 4, 6, 10, 12, 14, 18],
+   "education": "Bachelor of Arts in English",
+   "treads": [1, 3, 5, 7, 8, 9, 11, 13, 15, 16]
+  },
+  {
+   "pen_name": "David Brown",
+   "cover_quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+   "catchphrase": "Unleash your imagination and create something that will touch the hearts of others.",
+   "social_handles": {
+    "twitter": "@davidbrown",
+    "instagram": "@davidbrown",
+    "facebook": "@davidbrown"
+   },
+   "masterpieces": [0, 1, 2, 3, 5, 7, 9, 11, 13, 15, 18],
+   "education": "Master of Fine Arts in Writing",
+   "treads": [4, 6, 8, 10, 12, 14, 16, 17, 19, 20]
+  },
+  {
+   "pen_name": "Sarah Lee",
+   "cover_quote": "You miss 100% of the shots you don't take.",
+   "catchphrase": "Let the pen be your sword and the page be your battlefield.",
+   "social_handles": {
+    "twitter": "@sarahlee",
+    "instagram": "@sarahlee",
+    "facebook": "@sarahlee"
+   },
+   "masterpieces": [1, 3, 5, 7, 10, 12, 14, 16, 19],
+   "education": "Bachelor of Arts in Creative Writing",
+   "treads": [0, 2, 4, 6, 8, 9, 11, 13, 15, 17]
+  }
+ ]
+}

@@ -6,29 +6,29 @@ const Navbar = () => {
     const [displayMeun, setDisplayMeun] = useState(false);
     const showMeun = () => setDisplayMeun((displayed) => !displayed)
 
-    const Logo = <NavLink to='/'><span className='font-logo text-xl md:text-lg capitalize'>Tread</span></NavLink>
+    const Logo = <NavLink to='/'><span className='font-logo text-xl md:text-lg capitalize'>olamarvel</span></NavLink>
     const meunClass = ({ isActive }) => (isActive ? 'text-shade text-2xl md:text-xl' : 'hover:text-shade') + ' text-xl md:text-lg';
     const meuns = <>
         <NavLink to="/" className={meunClass}>
-            <span>Treads</span>
+            <span>home</span>
         </NavLink>
-        {['file', 'profile', 'contact'].map((meun) =>
+        {['about', 'project', 'contact'].map((meun) =>
             <NavLink to={"/" + meun} className={meunClass} key={meun
             }>
                 <span>{meun}</span></NavLink>
         )}
     </>
     return (
-        <div className='flex flex-row py-3 px-5 shadow-md row-span-1'>
+        <div className='flex flex-row py-3 px-5'>
             {Logo}
             <div className='flex-grow flex flex-row-reverse h-full items-center cursor md:hidden' onClick={showMeun}>
                 {!displayMeun ? <GiHamburgerMenu /> : <AiOutlineClose />}
             </div>
-            {displayMeun && <div className='h-screen w-4/6 absolute flex flex-col bg-white  capitalize md:hidden z-10'>
+            {displayMeun && <div className='h-screen w-4/6 absolute flex flex-col bg-white  capitalize md:hidden '>
                 {Logo}{meuns}
             </div>}
             <div className='hidden md:flex flex-grow  justify-end gap-4 capitalize '>
-                {meuns} 
+                {meuns}
             </div>
         </div>
     );
