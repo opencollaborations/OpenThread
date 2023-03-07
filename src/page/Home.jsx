@@ -13,7 +13,7 @@ const Home = () => {
     return (
         <section className='w-full overflow-auto'>
             <Fabric />
-            {treads.map(({ name, date, poem, author, applauds, treads, echos }, i) => <Tread key={name + date + poem} image={noImg} name={name} date={date} poem={poem} authour={author} id={0} applauds={applauds} treads={treads} echos={echos} />)}
+            {treads.map(({ name, date, poem, author, applauds, treads, echos }, i) => <Tread key={name + date + poem + i} image={noImg} name={name} date={date} poem={poem} authour={author} id={0} applauds={applauds} treads={treads} echos={echos} />)}
         </section>
     );
 }

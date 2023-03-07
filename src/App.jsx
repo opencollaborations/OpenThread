@@ -12,8 +12,11 @@ import Signup from './page/Login/signUp'
 import Profile from './page/profile'
 import ProfileInfo from './component/profile_info'
 import Collab from './page/collab'
-// import Fabric from './page/fabric'/
-import Message from './component/message'
+import book from './svg/book.svg?url'
+import Chats from './component/chat'
+import { Accordion, IconButton, Tab, TabPanel, Tabs, TabsBody, TabsHeader } from '@material-tailwind/react'
+import { AiOutlineNotification } from 'react-icons/ai'
+import Notifications from './component/notifications'
 
 function App() {
   return (
@@ -55,9 +58,9 @@ function Index() {
           </Routes>
         </section>
         <aside className='hidden md:block col-span-3 p-2 relative'>
-        <Routes>
+          <Routes>
             <Route path="/profile/:id" element={<Connects />} />
-            <Route path="/*" element={<Message />} />
+            <Route path="/" element={<SwitchMessage_Notification />} />
             {/* <Route exact path="/*" element={<Connects />} /> */}
           </Routes>
         </aside>
@@ -66,3 +69,29 @@ function Index() {
   )
 }
 
+
+function SwitchMessage_Notification() {
+  return <Tabs value='messages'>
+    <TabsHeader>
+      <Tab value='messages'>
+        <IconButton>
+          <img src={book} />
+        </IconButton>
+      </Tab>
+      <Tab value='notificatio'>
+        <IconButton>
+          <AiOutlineNotification />
+        </IconButton>
+      </Tab>
+    </TabsHeader>
+    <TabsBody >
+      <TabPanel value='messages'>
+        <Chats />
+      </TabPanel>
+      <TabPanel value='notification'>
+        <Notifications />
+      </TabPanel>
+    </TabsBody>
+  </Tabs>
+
+}

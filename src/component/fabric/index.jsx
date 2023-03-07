@@ -14,7 +14,6 @@ const Fabric = () => {
             <Card className='flex gap-2 items-center flex-row w-full md:w-4/5 max-w-md m-auto p-4 rounded-lg bg-white my-4'>
                 <Avatar src={noImg} className='col-span-1' size='sm' />
                 <div className='flex-grow relative'>
-                    {/* <Input variant='standard' /> */}
                     <Textarea className='h-auto min-h-min max-h-36 overflow-hidden' variant='standard' />
                     <div className='absolute right-0 top-1/2 -translate-y-1/2'>
                         <Tooltip content='tread' placement='right-end' >

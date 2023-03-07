@@ -404,5 +404,97 @@
    "education": "Bachelor of Arts in Creative Writing",
    "treads": [0, 2, 4, 6, 8, 9, 11, 13, 15, 17]
   }
- ]
+ ],
+  "chats": [
+    {
+      "id": 1,
+      "title": "Writing Tips",
+      "members": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+        }
+      ],
+      "messages": [
+        {
+          "id": 1,
+          "senderId": 1,
+          "text": "Hey everyone, what are your favorite writing tips?"
+        },
+        {
+          "id": 2,
+          "senderId": 2,
+          "text": "I always find it helpful to read a lot, especially in the genre I'm writing in."
+        },
+        {
+          "id": 3,
+          "senderId": 1,
+          "text": "Agreed! And for me, outlining helps a lot with organizing my thoughts."
+        },
+        {
+          "id": 4,
+          "senderId": 2,
+          "text": "Definitely. And setting a writing schedule can help establish a routine and discipline."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Science Fiction Fans",
+      "members": [
+        {
+          "id": 3,
+          "name": "Bob Johnson",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Alice Lee",
+          "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Ethan Davis",
+          "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "messages": [
+        {
+          "id": 5,
+          "senderId": 3,
+          "text": "Hi everyone! I just finished reading a great new sci-fi novel, has anyone else read it?"
+        },
+        {
+          "id": 6,
+          "senderId": 4,
+          "text": "I haven't, but I'm always on the lookout for good sci-fi recommendations. What's it called?"
+        },
+        {
+          "id": 7,
+          "senderId": 5,
+          "text": "Yeah, same here! Let us know the title so we can check it out."
+        },
+        {
+          "id": 8,
+          "senderId": 3,
+          "text": "It's called 'The Martian Chronicles' by Ray Bradbury. It's a classic, but I just read it for the first time and loved it."
+        },
+        {
+          "id": 9,
+          "senderId": 4,
+          "text": "Oh, I've heard of that one! I'll definitely have to read it now."
+        },
+        {
+          "id": 10,
+          "senderId": 5,
+          "text": "Thanks for the recommendation, I'll add it to my list!"
+        }
+      ]
+    }]
 }
