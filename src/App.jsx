@@ -17,6 +17,8 @@ import Chats from './component/chat'
 import { Accordion, IconButton, Tab, TabPanel, Tabs, TabsBody, TabsHeader } from '@material-tailwind/react'
 import { AiOutlineNotification } from 'react-icons/ai'
 import Notifications from './component/notifications'
+import {useMediaQuery} from 'react-responsive'
+import MobileFabric from './component/fabric/mobile'
 
 function App() {
   return (
@@ -35,6 +37,7 @@ function App() {
 export default App
 
 function Index() {
+  const isMobile = useMediaQuery({ maxWidth: 720 })
   return (
     <section className='grid grid-rows-[repeat(12, minmax(0, 1fr))]'>
       <Navbar className='flex flex-row py-3 px-5 shadow-md row-span-1' />
@@ -53,8 +56,10 @@ function Index() {
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/project" element={<Project />} />
+            <Route path="/fabric" element={<MobileFabric />} />
             <Route exact path="/" element={<Home />} />
             <Route path='*' element={<Four04 />} />
+            
           </Routes>
         </section>
         <aside className='hidden md:block col-span-3 p-2 relative'>
