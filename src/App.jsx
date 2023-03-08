@@ -5,7 +5,7 @@ import Four04 from './page/404'
 import Home from './page/Home'
 import About from './page/About'
 import Project from './page/Project'
-import Contact from './page/contact'
+import Contact from './page/Contact'
 import Connects from './component/connects'
 import Login from './page/Login/signIn'
 import Signup from './page/Login/signUp'
@@ -19,6 +19,7 @@ import { AiOutlineNotification } from 'react-icons/ai'
 import Notifications from './component/notifications'
 import { useMediaQuery } from 'react-responsive'
 import MobileFabric from './component/fabric/mobile'
+import Friends from './component/connects/friend'
 
 function App() {
   return (
@@ -56,6 +57,7 @@ function Index() {
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/project" element={<Project />} />
+            <Route path="/friends" element={<Friends />} />
             {/* mobile routes only  */}
             {isMobile && <>
               <Route path="/fabric" element={<MobileFabric />} />
