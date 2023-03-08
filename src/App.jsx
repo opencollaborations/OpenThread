@@ -17,7 +17,7 @@ import Chats from './component/chat'
 import { Accordion, IconButton, Tab, TabPanel, Tabs, TabsBody, TabsHeader } from '@material-tailwind/react'
 import { AiOutlineNotification } from 'react-icons/ai'
 import Notifications from './component/notifications'
-import {useMediaQuery} from 'react-responsive'
+import { useMediaQuery } from 'react-responsive'
 import MobileFabric from './component/fabric/mobile'
 
 function App() {
@@ -56,10 +56,15 @@ function Index() {
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/project" element={<Project />} />
-            <Route path="/fabric" element={<MobileFabric />} />
+            {/* mobile routes only  */}
+            {isMobile && <>
+              <Route path="/fabric" element={<MobileFabric />} />
+              <Route path="/messages" element={<Chats />} />
+            </>}
+
             <Route exact path="/" element={<Home />} />
             <Route path='*' element={<Four04 />} />
-            
+
           </Routes>
         </section>
         <aside className='hidden md:block col-span-3 p-2 relative'>
