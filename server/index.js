@@ -11,6 +11,7 @@ dotenv.config()
 console.log(process.env.mongodb)
 const app = express()
 
+app.use(express.json())
 app.use(bodyParser.json({ extended: true }))
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(cors())

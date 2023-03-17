@@ -8,6 +8,7 @@ import jwt from 'jsonwebtoken'
 export const signUp = async (req, res) => {
  try {
   const { pen_name, password } = req.body
+  console.log(password)
   const existingUser = await User.findOne({ pen_name })
   if (existingUser) {
    return res.status(400).json({ message: 'pen_name already taken' })
@@ -19,6 +20,7 @@ export const signUp = async (req, res) => {
   const token = jwt.sign({ id: newUser._id }, process.env.jwt)
   return res.status(201).json({ token })
  } catch (err) {
+  console.log(err)
   return res.status(500).json({ message: err.message })
  }
 }
