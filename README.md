@@ -29,7 +29,7 @@ Detailed instructions for getting started can be found in the [Getting Started G
 
 We welcome contributions from anyone who is interested in helping to improve Tread. Whether you're a developer, a designer, a writer, or just someone who is passionate about social media and writing, there are many ways you can contribute.
 
-If you're interested in contributing, please read our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md). These documents will help you understand how to contribute to Tread in a positive and constructive way.
+If you're interested in contributing, please read our [Contributing Guidelines](./CONTRIBUTING.md),[Road Map](./ROAD_MAP.md) and [Code of Conduct](./CODE_OF_CONDUCT.md). These documents will help you understand how to contribute to Tread in a positive and constructive way.
 
 ## License
 
